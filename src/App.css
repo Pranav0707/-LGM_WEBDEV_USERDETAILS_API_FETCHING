@@ -1,38 +1,47 @@
-.App {
-  text-align: center;
+.main-row {
+  height: 90vh;
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.main-col {
+  margin: 10px;
+  padding: 10px;
+  max-width: 900px;
+  min-height: 500px;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.todo-done {
+  text-decoration: line-through;
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.button {
+  border: 1px solid #757575;
+  background-color: #FFF;
+  color: #EB796F;
+  font-size: 14px;
+  border-radius: 5px;
+  cursor: pointer;
+  text-decoration: none;
+}
+.header-bar {
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
 
-.App-link {
-  color: #61dafb;
-}
+  justify-content: space-between;
+  color: #fff;
+  padding: 10px;
+  text-align: center;
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+  border-radius: 5px 5px 0 0;
+  background: linear-gradient(90deg, #eea390 0%, #eb796f 43%, #eb796f 100%);
+}
+.footer {
+  position: absolute;
+
+  padding: 4px;
+  bottom: 0;
+  width: 100%;
+  height: 50px;
+  background-color: #d3d3d3;
+  font-family: "Cantarell", "Fira Sans";
+  color: black;
+  font-size: larger;
+}
+.mapcont{
+  columns: 2 auto;
 }
