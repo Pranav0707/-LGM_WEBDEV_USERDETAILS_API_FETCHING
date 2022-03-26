@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/LGM_WEBDEV_USERDETAILS_API_FETCHING/static/css/main.a93ee6e3.css",
+    "main.js": "/LGM_WEBDEV_USERDETAILS_API_FETCHING/static/js/main.610dcd31.js",
+    "static/js/787.f280116d.chunk.js": "/LGM_WEBDEV_USERDETAILS_API_FETCHING/static/js/787.f280116d.chunk.js",
+    "index.html": "/LGM_WEBDEV_USERDETAILS_API_FETCHING/index.html",
+    "main.a93ee6e3.css.map": "/LGM_WEBDEV_USERDETAILS_API_FETCHING/static/css/main.a93ee6e3.css.map",
+    "main.610dcd31.js.map": "/LGM_WEBDEV_USERDETAILS_API_FETCHING/static/js/main.610dcd31.js.map",
+    "787.f280116d.chunk.js.map": "/LGM_WEBDEV_USERDETAILS_API_FETCHING/static/js/787.f280116d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a93ee6e3.css",
+    "static/js/main.610dcd31.js"
+  ]
+}
